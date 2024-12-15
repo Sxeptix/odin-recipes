@@ -1,0 +1,22 @@
+.heading{
+    font-size: 32px;
+    background-color: blanchedalmond;
+    color: black;
+    text-align: center;
+    margin: 10px;
+    padding: 10 px;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+.list{
+    font-size: 20px;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    margin: 200px;
+    border-radius: 10px;
+    
+
+
+}
